@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deofficiisadmar00heingoog_0010.png"; bbox 0 0 2768 4506; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 422 503 868 626">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 422 503 868 626">
+     <span class='ocr_line' id='line_1_1' title="bbox 422 503 868 626; baseline 0.013 -46"><span class='ocrx_word' id='word_1_1' title='bbox 422 503 461 581; x_wconf 80' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 491 503 625 584; x_wconf 73' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 653 505 868 626; x_wconf 62' lang='lat' dir='ltr'><strong>qlcssssoms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 133 752 1146 951">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 133 752 1146 1005">
+     <span class='ocr_line' id='line_1_2' title="bbox 133 752 1146 951; baseline 0.005 -24"><span class='ocrx_word' id='word_1_4' title='bbox 133 752 1146 951; x_wconf 71' lang='lat' dir='ltr'>DEOFFIOIIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 614 1115 671 1171">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 614 1115 671 1171">
+     <span class='ocr_line' id='line_1_3' title="bbox 614 1115 671 1171; baseline -0.018 0"><span class='ocrx_word' id='word_1_5' title='bbox 614 1115 671 1171; x_wconf 84' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 235 1343 973 1460">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 235 1343 973 1460">
+     <span class='ocr_line' id='line_1_4' title="bbox 235 1343 973 1460; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 235 1454 239 1460; x_wconf 85' lang='lat'>.</span> <span class='ocrx_word' id='word_1_7' title='bbox 293 1344 632 1458; x_wconf 76' lang='lat' dir='ltr'><strong>MARCUM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 680 1343 973 1460; x_wconf 82' lang='lat' dir='ltr'><strong>FILIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 538 1553 742 1618">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 538 1513 742 1618">
+     <span class='ocr_line' id='line_1_5' title="bbox 538 1553 742 1618; baseline 0.01 -2"><span class='ocrx_word' id='word_1_9' title='bbox 538 1553 627 1617; x_wconf 74' lang='lat' dir='ltr'><strong>mssffl</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 649 1555 742 1618; x_wconf 63' lang='grc' dir='ltr'><strong>τηε.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1388 4506">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1388 4506">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1388 4506; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1388 4506; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
